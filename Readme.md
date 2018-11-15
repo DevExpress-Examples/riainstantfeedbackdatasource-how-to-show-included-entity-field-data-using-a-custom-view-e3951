@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SLGrid/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGrid/MainPage.xaml))
+<!-- default file list end -->
 # RiaInstantFeedbackDataSource - How to show included entity field data using a custom View
 
 
